@@ -108,22 +108,22 @@ Notes by Rashik Rahman Sir (Networking):  https://github.com/RashikRahman/3.2_No
 ### 📷 Group 1
 | | | |
 |---|---|---|
-| ![Step 1](Network Final/RIP Photos/Screenshot (2).png) | ![Step 2](Network Final/RIP Photos/Screenshot (3).png) | ![Step 3](Network Final/RIP Photos/Screenshot (4).png) |
+| ![Step 1](Network%20Final/RIP%20Photos/Screenshot%20(1).png) | ![Step 2](Network%20Final/RIP%20Photos/Screenshot%20(2).png) | ![Step 3](Network%20Final/RIP%20Photos/Screenshot%20(3).png) |
 
 ### 📷 Group 2
 | | | |
 |---|---|---|
-| ![Router Setup](Network Final/RIP Photos/Screenshot (5).png) | ![Switch Connection](Network Final/RIP Photos/Screenshot (6).png) | ![Server Zone](Network Final/RIP Photos/Screenshot (7).png) |
+| ![Router Setup](Network%20Final/RIP%20Photos/Screenshot%20(4).png) | ![Switch Connection](Network%20Final/RIP%20Photos/Screenshot%20(5).png) | ![Server Zone](Network%20Final/RIP%20Photos/Screenshot%20(6).png) |
 
 ### 📷 Group 3
 | | | |
 |---|---|---|
-| ![IP Design](Network Final/RIP Photos/Screenshot (8).png) | ![RIP Configuration](Network Final/RIP Photos/Screenshot (9).png) | ![Ping Test](Network Final/RIP Photos/Screenshot (10.png) |
+| ![IP Design](Network%20Final/RIP%20Photos/Screenshot%20(7).png) | ![RIP Configuration](Network%20Final/RIP%20Photos/Screenshot%20(8).png) | ![Ping Test](Network%20Final/RIP%20Photos/Screenshot%20(10).png) |
 
 ### 📷 Group 4
 | | | | |
 |---|---|---|---|
-| ![Browser Access](Network Final/RIP Photos/Screenshot (11).png) | ![DNS Server](Network Final/RIP Photos/Screenshot (12).png) | ![Full Topology](Network Final/RIP Photos/Screenshot (13).png) | ![Final Output](Network Final/RIP Photos/Screenshot (14).png) |
+| ![Browser Access](Network%20Final/RIP%20Photos/Screenshot%20(11).png) | ![DNS Server](Network%20Final/RIP%20Photos/Screenshot%20(12).png) | ![Full Topology](Network%20Final/RIP%20Photos/Screenshot%20(13).png) | ![Final Output](Network%20Final/RIP%20Photos/Screenshot%20(14).png) |
 
 *(Add your 16 images to a folder named `images/` inside your repo and rename them accordingly.)*
 
